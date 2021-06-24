@@ -13,13 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!--
-  <a href="https://twitter.com/John_T1000" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="john_t1000" height="30" width="40" />
-  </a>
-  -->
   <a href="https://linkedin.com/in/jônatas-rodrigues-60157a165" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brunos3d" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="brunos3d" height="30" width="40" />
   </a>
 </p>
 
